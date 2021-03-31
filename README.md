@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akandral
+- 👀 I’m an aspiring web-developer
+- 🌱 I’m currently learning React and Node.js with Express implemelntation
+- 📫 adamkandral@gmail.com
